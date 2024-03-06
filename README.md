@@ -35,3 +35,5 @@ To ensure the script runs smoothly, you need:
 ## Contribution
 Contributions to enhance the functionality or efficiency of this script are welcome. Please adhere to the coding standards established in the script and document your changes thoroughly.
 
+When saving this content, name the file `README.md` and place it in the root directory of your repository. This will display the formatted README on your GitHub repository's main page. Remember to review and adjust the README as necessary to fit your specific project's needs or to add any additional instructions or information you find relevant.
+
